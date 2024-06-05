@@ -107,7 +107,7 @@ This project is a simple HTTP JSON API server built using Node.js. The server re
     node http_json_api_time_server.js 8000
     ```
 4. To test the server, 
-    - Option 1: On the client browser, go t
+    - Option 1: On the client browser, go to the following URL:
         ```sh
         http://localhost:8000/api/currenttime 
         ```
@@ -117,3 +117,6 @@ This project is a simple HTTP JSON API server built using Node.js. The server re
         ```
 
 This project guide and README file should help you set up your Node.js server, test it, and get the JSON output effectively.
+
+### Detailed Google Slide Presentation
+[Time Server](https://docs.google.com/presentation/d/189WU8vxrv0jBaXArIMFo6JBduwAjP9nNHBe1uiAHBt0/edit?usp=sharing)
